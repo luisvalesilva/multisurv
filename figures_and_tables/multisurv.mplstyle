@@ -1,0 +1,11 @@
+# Style configurations for matplotlib plots
+
+font.family      : serif
+font.size        : 12
+xtick.labelsize  : 12
+ytick.labelsize  : 12
+axes.spines.top  : False
+axes.spines.right: False
+legend.frameon   : False
+axes.prop_cycle    : cycler('color', ['e82a49', '911e2c', 'f49164', 'eabea7', 'f9bd36', '23658b', '10354b', 'b0c4ce'])
+
