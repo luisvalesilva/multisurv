@@ -29,7 +29,7 @@
 
 This repository contains all code developed for the MultiSurv paper:
 
-__MultiSurv: Long-term cancer survival prediction using multimodal deep learning__   |   [scientific reports](https://www.nature.com/articles/s41598-021-92799-4?proof=t)
+__Long-term cancer survival prediction using multimodal deep learning__   |   [scientific reports](https://www.nature.com/articles/s41598-021-92799-4?proof=t)
 
 <br /><br />
 
